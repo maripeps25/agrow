@@ -5,7 +5,4 @@ add -A
 commit -m
 push
 
-git branch (conocer estado de ramas)
-git checkout -b nombre (crear rama)
-git checkout nombre (cambiar de rama)
-git merge (desde master) (juntar ramas)
+
