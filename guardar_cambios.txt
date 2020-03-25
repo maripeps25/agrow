@@ -1,9 +1,0 @@
-ciclo de cambios
-
-git add -A
-git commit -m "mensaje"
-git push
-
-
-
-Se agrego esta nueva linea y quiere ser agregada a la rama master

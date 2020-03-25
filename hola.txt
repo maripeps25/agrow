@@ -1,11 +1,1 @@
-hola mundo
-hello
-
-add -A
-commit -m
-push
-
-git branch
-git checkout -b nombre
-
-develop
+se cambio todo
