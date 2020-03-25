@@ -12,3 +12,5 @@ git checkout nombre_rama
 
 Para juntar una rama con la rama en la que estoy actualmente:
 git merge
+
+rama
