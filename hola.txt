@@ -1,8 +1,1 @@
-hola mundo
-hello
-
-add -A
-commit -m
-push
-
 
