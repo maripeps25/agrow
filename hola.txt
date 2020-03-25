@@ -1,1 +1,14 @@
-se cambio todo
+Para ver el listado de ramas:
+git branch
+
+Para crear una nueva rama a partir de la rama en la que estamos:
+git checkout -b nombre_nueva_rama
+
+Si la rama la cre� de manera local, para que la rama se cree en el repositorio remoto:
+git push --set-upstream origin nombre_nueva_rama
+
+Para cambiar de rama:
+git checkout nombre_rama
+
+Para juntar una rama con la rama en la que estoy actualmente:
+git merge
